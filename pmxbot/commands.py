@@ -257,7 +257,7 @@ def zinger(rest):
 
 @command(aliases=(
 	"m", "appreciate", "thanks", "thank", "gracias", "grazie", "danke", "хвала",
-	"faleminderit", "merci", "dziękuję",
+	"faleminderit", "merci", "dziękuję", "gràcies",
 ))
 def motivate(channel, rest):
 	"Motivate someone"
